@@ -1,0 +1,27 @@
+{
+  "name": "recharts_test",
+  "version": "1.0.0",
+  "description": "Playing with Recharts and Netatmo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartatpeasy/recharts_test.git"
+  },
+  "keywords": [
+    "recharts",
+    "netatmo"
+  ],
+  "author": "Stuart Wallace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartatpeasy/recharts_test/issues"
+  },
+  "homepage": "https://github.com/stuartatpeasy/recharts_test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "recharts": "^2.1.8"
+  }
+}
